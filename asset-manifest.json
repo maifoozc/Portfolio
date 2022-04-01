@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/maifoozc/Portfolio.git/static/css/main.c1a1f802.css",
+    "main.js": "/maifoozc/Portfolio.git/static/js/main.ac1fdd1f.js",
+    "static/media/movie_database.png": "/maifoozc/Portfolio.git/static/media/movie_database.416f592d7905a24c367d.png",
+    "static/media/fylo_image.png": "/maifoozc/Portfolio.git/static/media/fylo_image.77b36a6b3ec57e224817.png",
+    "static/media/resume.png": "/maifoozc/Portfolio.git/static/media/resume.c8c6130406771d4a7b6c.png",
+    "index.html": "/maifoozc/Portfolio.git/index.html",
+    "main.c1a1f802.css.map": "/maifoozc/Portfolio.git/static/css/main.c1a1f802.css.map",
+    "main.ac1fdd1f.js.map": "/maifoozc/Portfolio.git/static/js/main.ac1fdd1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1a1f802.css",
+    "static/js/main.ac1fdd1f.js"
+  ]
+}
